@@ -102,7 +102,3 @@ An HTML report is generated automatically at `reports/report.html` after every r
 ## 🤖 CI/CD
 
 Every push and pull request to `main` triggers the GitHub Actions workflow, which installs dependencies, runs the full suite in headless mode, and uploads the HTML report as a build artifact — accessible from the Actions tab even when tests fail.
-
-## 📝 License
-
-Project for study and portfolio purposes.
